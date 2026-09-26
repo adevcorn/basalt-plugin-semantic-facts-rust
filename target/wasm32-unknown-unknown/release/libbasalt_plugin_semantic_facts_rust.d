@@ -1,1 +1,0 @@
-C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\wasm32-unknown-unknown\release\libbasalt_plugin_semantic_facts_rust.rlib: C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\src\lib.rs
