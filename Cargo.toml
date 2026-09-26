@@ -1,0 +1,20 @@
+[workspace]
+
+[package]
+name = "basalt-plugin-semantic-facts-rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+basalt-plugin-sdk = { git = "https://github.com/adevcorn/basalt-plugin-sdk", tag = "v0.1.2", features = ["serde"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+syn = { version = "2.0", features = ["full", "visit", "extra-traits"] }
+proc-macro2 = { version = "1.0", default-features = false, features = ["span-locations"] }
+
+[profile.release]
+opt-level = "s"
+lto = true

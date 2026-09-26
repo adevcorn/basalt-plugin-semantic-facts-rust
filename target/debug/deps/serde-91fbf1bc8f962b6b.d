@@ -1,0 +1,14 @@
+C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\deps\serde-91fbf1bc8f962b6b.d: C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\deps\libserde-91fbf1bc8f962b6b.rlib: C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\deps\libserde-91fbf1bc8f962b6b.rmeta: C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\anton\repos\adevcorn\plugin-semantic-facts-rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\anton\\repos\\adevcorn\\plugin-semantic-facts-rust\\target\\debug\\build\\serde-38142dd3d0018dab\\out

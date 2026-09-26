@@ -1,0 +1,34 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+
+      - name: Build
+        run: cargo build --release --target wasm32-unknown-unknown
+
+      - name: Prepare WASM Artifact
+        run: |
+          WASM=$(ls target/wasm32-unknown-unknown/release/*.wasm | head -1)
+          cp "$WASM" semantic_facts_rust.wasm
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: semantic_facts_rust.wasm
